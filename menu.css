@@ -1,0 +1,84 @@
+.barra{
+  border: 1px solid #CCC;
+  background-color: #E0E0E0;
+  padding: .5em;
+  overflow: hidden;
+  padding-bottom: 200px;
+  }
+body{ background-color: yellow;}
+h3{ font-size: 12px;}
+h6{ font-size: 9px;}
+p{
+  font-size: 9px;
+  display: block;
+ -webkit-margin-before: 1em;
+ -webkit-margin-after: 1em;
+ -webkit-margin-start: 0px;
+ -webkit-margin-end: 0px
+}
+.fa-diamond{ font-size: 30px; }
+.fa-paper-plane-o{ font-size: 30px;}
+.fa-heartbeat{ font-size: 30px;}
+.fa-coffee{ font-size: 30px;}
+.fa-gamepad{ font-size: 30px;}
+
+.avion{
+  position: fixed;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  width: 150px;
+  height: 100px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid white;
+  margin-left:0px;
+}
+.diamante{
+  position: fixed;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  width: 90px;
+  height: 90px;
+  padding-top: 10px;
+  padding-bottom: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid white;
+  margin-left: 180px;
+}
+.corazon{
+  position: fixed;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 300px;
+  width: 90px;
+  height: 90px;
+  padding-bottom: 100px;
+  border: 1px solid white;
+}
+.cafe{
+  position: fixed;
+  float: left;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 400px;
+  width: 90px;
+  height: 90px;
+  padding-bottom: 100px;
+  border: 1px solid white;
+}
+.mando{
+  position: fixed;
+  float: left;
+  text-align: center;
+  margin-left: 500px;
+  width: 90px;
+  height: 90px;
+  padding-bottom: 100px;
+  border: 1px solid white;
+}
